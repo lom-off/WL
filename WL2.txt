@@ -1,2 +1,3 @@
 @@|*maps.yandex.*^$important
 @@|report.appmetrica.yandex.net*^$important
+@@|mobile.yandex.net^$important
