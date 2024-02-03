@@ -1,1 +1,2 @@
 @@|*maps.yandex.*^$important
+@@|report.appmetrica.yandex.net*^$important
