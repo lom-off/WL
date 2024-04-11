@@ -6,4 +6,4 @@
 @@|*.ea.com^$important
 @@|*.origin.com^$important
 @@|*.amazonaws.com^$important
-
+@@|*.ubisoft.com^$important
