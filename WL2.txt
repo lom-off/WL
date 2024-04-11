@@ -4,5 +4,6 @@
 @@|rutracker.org^$important
 @@|rtm.tnt-ea.com^$important
 @@|*.ea.com^$important
+@@|*.origin.com^$important
 @@|*.amazonaws.com^$important
 
