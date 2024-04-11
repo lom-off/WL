@@ -3,4 +3,6 @@
 @@|mobile.yandex.net^$important
 @@|rutracker.org^$important
 @@|rtm.tnt-ea.com^$important
-@@|ea.com^$important
+@@|*.ea.com^$important
+@@|*.amazonaws.com^$important
+
