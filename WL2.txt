@@ -2,3 +2,5 @@
 @@|report.appmetrica.yandex.net*^$important
 @@|mobile.yandex.net^$important
 @@|rutracker.org^$important
+@@|rtm.tnt-ea.com^$important
+@@|ea.com^$important
