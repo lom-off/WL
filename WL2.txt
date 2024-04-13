@@ -9,6 +9,7 @@
 @@|*.vortex.data.microsoft.com^$important
 @@|*.mobile.events.data.microsoft.com^$important
 @@|*.in.appcenter.ms^$important
+@@|*.mobile.pipe.aria.microsoft.com^$important
 @@|*.ubisoft.com^$important
 
   
