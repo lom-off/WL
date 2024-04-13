@@ -7,9 +7,9 @@
 @@|*.origin.com^$important
 @@|*.amazonaws.com^$important
 @@|*.vortex.data.microsoft.com^$important
-@@|*.mobile.events.data.microsoft.com^$important
-@@|*.in.appcenter.ms^$important
-@@|*.mobile.pipe.aria.microsoft.com^$important
+@@|*.events.data.microsoft.com^$important
+@@|*.appcenter.ms^$important
+@@|*.pipe.aria.microsoft.com^$important
 @@|*.ubisoft.com^$important
 
   
