@@ -10,6 +10,7 @@
 @@|*.events.data.microsoft.com^$important
 @@|*.appcenter.ms^$important
 @@|*.pipe.aria.microsoft.com^$important
+@@|*.bingviz.microsoftapp.net^$important
 @@|*.ubisoft.com^$important
 
   
