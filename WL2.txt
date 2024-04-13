@@ -6,4 +6,9 @@
 @@|*.ea.com^$important
 @@|*.origin.com^$important
 @@|*.amazonaws.com^$important
+@@|*.vortex.data.microsoft.com^$important
+@@|*.mobile.events.data.microsoft.com^$important
+@@|*.in.appcenter.ms^$important
 @@|*.ubisoft.com^$important
+
+  
