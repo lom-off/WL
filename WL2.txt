@@ -6,11 +6,11 @@
 @@|*.ea.com^$important
 @@|*.origin.com^$important
 @@|*.amazonaws.com^$important
-@@|*.vortex.data.microsoft.com^$important
-@@|*.events.data.microsoft.com^$important
-@@|*.appcenter.ms^$important
-@@|*.pipe.aria.microsoft.com^$important
-@@|*.bingviz.microsoftapp.net^$important
+#@@|*.vortex.data.microsoft.com^$important
+#@@|*.events.data.microsoft.com^$important
+#@@|*.appcenter.ms^$important
+#@@|*.pipe.aria.microsoft.com^$important
+#@@|*.bingviz.microsoftapp.net^$important
 @@|*.ubisoft.com^$important
 
   
