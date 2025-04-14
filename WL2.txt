@@ -5,12 +5,9 @@
 @@|rtm.tnt-ea.com^$important
 @@|*.ea.com^$important
 @@|*.origin.com^$important
-@@|*.amazonaws.com^$important
 #@@|*.vortex.data.microsoft.com^$important
 #@@|*.events.data.microsoft.com^$important
 #@@|*.appcenter.ms^$important
 #@@|*.pipe.aria.microsoft.com^$important
 #@@|*.bingviz.microsoftapp.net^$important
 @@|*.ubisoft.com^$important
-analytics.s3.amazonaws.com
-analyticsengine.s3.amazonaws.com
