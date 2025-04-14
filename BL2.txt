@@ -1,2 +1,2 @@
 *.metric.gstatic.com
-@@|*.amazonaws.com^$important
+*.amazonaws.com
