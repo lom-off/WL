@@ -1,3 +1,6 @@
 *.metric.gstatic.com
 *.amazonaws.com
 *.googleanalytics.com
+udcm.yahoo.com
+log.fc.yahoo.com
+app.getsentry.com
